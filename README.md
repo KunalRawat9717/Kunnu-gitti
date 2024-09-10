@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunnu-gitti
+- 👋 Hi, I’m @Kunal Rawat
 - 👀 I’m interested in music
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects 
